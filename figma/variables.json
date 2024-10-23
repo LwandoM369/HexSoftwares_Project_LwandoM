@@ -1,0 +1,13 @@
+[
+  {
+    "id": "VariableCollectionId:1:3",
+    "name": "Collection 1",
+    "modes": [
+      {
+        "name": "Mode 1",
+        "modeId": "1:0"
+      }
+    ],
+    "variables": []
+  }
+]
