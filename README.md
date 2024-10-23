@@ -20,7 +20,7 @@
 </defs>
 </svg>
 
-///////
+
 ![Uploading Default to Active Button.svg…]() <svg width="792" height="1398" viewBox="0 0 792 1398" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect width="792" height="1398" fill="#1E1E1E" style="fill:#1E1E1E;fill:color(display-p3 0.1176 0.1176 0.1176);fill-opacity:1;"/>
 <g clip-path="url(#clip0_1_2)">
@@ -66,7 +66,8 @@
 </clipPath>
 </defs>
 </svg>
-///////
+
+
 ![Uploading Hover.svg…]() <svg width="423" height="754" viewBox="0 0 423 754" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect width="423" height="754" fill="white" style="fill:white;fill-opacity:1;"/>
 <rect width="423" height="272" transform="translate(0 482)" fill="black" style="fill:black;fill-opacity:1;"/>
